@@ -1,2 +1,5 @@
 hi
 will merge the data from dev to master
+will try now git reset head
+trying again
+modifying to test
